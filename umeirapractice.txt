@@ -1,2 +1,2 @@
-tohis is my second pushed file so I can practice how to efficiently merge files into my practice repo
+this is my second pushed file so I can practice how to efficiently merge files into my practice repo
 
